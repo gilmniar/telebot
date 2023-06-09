@@ -1,6 +1,5 @@
 import requests
 import json
-import telebot
 from config import headers, keys
 
 
